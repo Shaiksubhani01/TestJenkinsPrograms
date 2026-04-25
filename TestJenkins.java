@@ -3,6 +3,9 @@ public class TestJenkins {
         System.out.println("This is java program");
         System.out.println("Output from java program");
         System.out.println(new java.util.Date());
+        System.out.println("Hello");
+        System.out.println("Added one more file....!");
+
     }
 }
 
