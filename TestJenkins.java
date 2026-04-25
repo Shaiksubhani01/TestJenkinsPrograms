@@ -5,7 +5,9 @@ public class TestJenkins {
         System.out.println(new java.util.Date());
         System.out.println("Hello");
         System.out.println("Added one more file....!");
-
+        
+        Student student = new Student();
+        student.sayHello();
     }
 }
 
